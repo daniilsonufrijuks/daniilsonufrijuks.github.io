@@ -1,0 +1,319 @@
+.background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 2962px;
+}
+.navbar-child {
+    position: absolute;
+    top: 50px;
+    left: 1506px;
+    border-radius: 80px;
+    background-color: #38a755;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
+    width: 328px;
+    height: 91px;
+}
+.loginsign-up {
+    position: absolute;
+    top: 72px;
+    left: 1563px;
+    display: inline-block;
+    color: #fff;
+    width: 232px;
+    height: 56px;
+}
+.projects {
+    position: absolute;
+    top: 76px;
+    left: 1258px;
+    font-weight: 500;
+    display: inline-block;
+    width: 153px;
+    height: 40px;
+}
+.about {
+    position: absolute;
+    top: 78px;
+    left: 1063px;
+    font-weight: 500;
+    display: inline-block;
+    width: 133px;
+    height: 35px;
+}
+.black-and-white-collection-7 {
+    position: absolute;
+    height: 88.89%;
+    width: 15.38%;
+    top: 11.11%;
+    right: 84.62%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.dans-page {
+    position: absolute;
+    top: 0px;
+    left: 75px;
+    display: inline-block;
+    width: 289px;
+    height: 59px;
+}
+.black-and-white-collection-7-parent {
+    position: absolute;
+    height: 35.39%;
+    width: 18.96%;
+    top: 38.76%;
+    right: 74.06%;
+    bottom: 25.84%;
+    left: 6.98%;
+    font-size: 45px;
+    color: #414042;
+}
+.navbar {
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    width: 1920px;
+    height: 178px;
+    overflow: hidden;
+    font-family: Poppins;
+}
+.features {
+    position: relative;
+    font-weight: 600;
+}
+.frame-child {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 19px;
+    object-fit: cover;
+}
+.about-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+.social-network-icon {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.social-network-wrapper {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-parent {
+    position: absolute;
+    top: calc(50% - 90px);
+    left: calc(50% - 291.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 31px;
+}
+.privacy-policy {
+    position: relative;
+}
+.privacy-policy-parent {
+    position: absolute;
+    top: calc(50% + 62.5px);
+    left: calc(50% - 375.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 46px;
+    font-size: 25px;
+}
+.logo-icon {
+    position: absolute;
+    top: calc(50% - 31px);
+    left: calc(50% - 110px);
+    width: 220px;
+    height: 80px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.footer-17 {
+    position: absolute;
+    top: 1402px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 406px;
+    overflow: hidden;
+    font-size: 27px;
+    color: #2d2e2e;
+}
+.login-page-child {
+    position: absolute;
+    top: 0px;
+    left: 842px;
+    background-color: #afb3ff;
+    width: 438px;
+    height: 720px;
+}
+.objectother-03-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.objectother-03 {
+    position: absolute;
+    top: 37px;
+    left: 565px;
+    width: 600px;
+    height: 590px;
+}
+.social-media-icons {
+    position: absolute;
+    height: 3.36%;
+    width: 6.89%;
+    top: 75.14%;
+    right: 73.11%;
+    bottom: 21.5%;
+    left: 20%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.login-page-item {
+    position: absolute;
+    top: 250px;
+    left: 122px;
+    border-radius: 50px;
+    background-color: rgba(175, 179, 255, 0);
+    border: 1px solid #656ed3;
+    box-sizing: border-box;
+    width: 367px;
+    height: 34px;
+}
+.login-page-inner {
+    position: absolute;
+    top: 326px;
+    left: 122px;
+    border-radius: 50px;
+    background-color: rgba(175, 179, 255, 0);
+    border: 1px solid #656ed3;
+    box-sizing: border-box;
+    width: 367px;
+    height: 34px;
+}
+.username {
+    position: absolute;
+    top: 220px;
+    left: 122px;
+}
+.register {
+    font-weight: 500;
+}
+.dont-have-and-container {
+    position: absolute;
+    top: 490px;
+    left: 188px;
+    white-space: pre-wrap;
+}
+.welcome-back {
+    position: absolute;
+    top: 177px;
+    left: 240px;
+    color: #1a1a1a;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50px;
+    background-color: #656ed3;
+    width: 365px;
+    height: 34px;
+}
+.login {
+    position: absolute;
+    top: 7px;
+    left: 161px;
+    font-weight: 500;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 402px;
+    left: 124px;
+    width: 365px;
+    height: 34px;
+    color: #afb3ff;
+}
+.password {
+    position: absolute;
+    top: 296px;
+    left: 124px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 912.32px;
+    left: -287px;
+    border-radius: 105.53px;
+    background-color: #838cf1;
+    width: 596.73px;
+    height: 141.4px;
+    transform:  rotate(-41.1deg);
+    transform-origin: 0 0;
+}
+.login-page-child1 {
+    position: absolute;
+    top: 895.05px;
+    left: -252px;
+    border-radius: 105.53px;
+    background-color: #afb3ff;
+    width: 553.74px;
+    height: 131.21px;
+    transform:  rotate(-41.1deg);
+    transform-origin: 0 0;
+}
+.login-page {
+    position: absolute;
+    top: 373px;
+    left: 320px;
+    background-color: #ebefff;
+    width: 1280px;
+    height: 720px;
+    overflow: hidden;
+    font-size: 16px;
+}
+.home-page {
+    position: relative;
+    border-radius: 30px;
+    background-color: #fff;
+    box-shadow: 20px 30px 100px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 2080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Inter;
+}
+

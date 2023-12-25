@@ -1,0 +1,215 @@
+.background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 2080px;
+}
+.you-are-on {
+    position: absolute;
+    top: 226px;
+    left: 44px;
+    font-size: 40px;
+    font-weight: 500;
+    color: #686868;
+    display: inline-block;
+    width: 697px;
+    height: 202px;
+}
+.hello {
+    position: absolute;
+    top: 83px;
+    left: 44px;
+    font-size: 100px;
+    display: inline-block;
+    color: #000;
+    width: 490px;
+    height: 122px;
+}
+.hero-text {
+    position: absolute;
+    top: 361px;
+    left: 134px;
+    width: 969px;
+    height: 704px;
+    overflow: hidden;
+}
+.navbar-child {
+    position: absolute;
+    top: 50px;
+    left: 1506px;
+    border-radius: 80px;
+    background-color: #38a755;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
+    width: 328px;
+    height: 91px;
+}
+.loginsign-up {
+    position: absolute;
+    top: 72px;
+    left: 1563px;
+    display: inline-block;
+    color: #fff;
+    width: 232px;
+    height: 56px;
+}
+.projects {
+    position: absolute;
+    top: 76px;
+    left: 1258px;
+    font-weight: 500;
+    display: inline-block;
+    width: 153px;
+    height: 40px;
+}
+.about {
+    position: absolute;
+    top: 78px;
+    left: 1063px;
+    font-weight: 500;
+    display: inline-block;
+    width: 133px;
+    height: 35px;
+}
+.black-and-white-collection-7 {
+    position: absolute;
+    height: 88.89%;
+    width: 15.38%;
+    top: 11.11%;
+    right: 84.62%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.dans-page {
+    position: absolute;
+    top: 0px;
+    left: 75px;
+    display: inline-block;
+    width: 289px;
+    height: 59px;
+}
+.black-and-white-collection-7-parent {
+    position: absolute;
+    height: 35.39%;
+    width: 18.96%;
+    top: 38.76%;
+    right: 74.06%;
+    bottom: 25.84%;
+    left: 6.98%;
+    font-size: 45px;
+    color: #414042;
+}
+.navbar {
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    width: 1920px;
+    height: 178px;
+    overflow: hidden;
+    font-size: 30px;
+    color: #000;
+}
+.images-icon {
+    position: absolute;
+    top: 403px;
+    left: 1294px;
+    width: 335.07px;
+    height: 368.27px;
+    object-fit: contain;
+}
+.features {
+    position: relative;
+    font-weight: 600;
+}
+.frame-child {
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 19px;
+    object-fit: cover;
+}
+.about-parent {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+}
+.social-network-icon {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.social-network-wrapper {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-parent {
+    position: absolute;
+    top: calc(50% - 90px);
+    left: calc(50% - 291.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 31px;
+}
+.privacy-policy {
+    position: relative;
+}
+.privacy-policy-parent {
+    position: absolute;
+    top: calc(50% + 62.5px);
+    left: calc(50% - 375.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 46px;
+    font-size: 25px;
+}
+.logo-icon {
+    position: absolute;
+    top: calc(50% - 31px);
+    left: calc(50% - 110px);
+    width: 220px;
+    height: 80px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.footer-17 {
+    position: absolute;
+    top: 2125px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 406px;
+    overflow: hidden;
+    font-size: 27px;
+    color: #2d2e2e;
+    font-family: Inter;
+}
+.home-page {
+    position: relative;
+    border-radius: 30px;
+    background-color: #fff;
+    box-shadow: 20px 30px 100px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 2692px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: #fff;
+    font-family: Poppins;
+}
+
