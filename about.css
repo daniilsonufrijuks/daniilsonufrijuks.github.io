@@ -82,12 +82,12 @@
     width: 1920px;
     height: 178px;
     overflow: hidden;
+    font-size: 30px;
 }
 .about-me {
     position: absolute;
     top: calc(50% - 685px);
     left: calc(50% - 102px);
-    font-size: 40px;
     font-weight: 500;
     display: inline-block;
     width: 348px;
@@ -170,6 +170,27 @@
     color: #2d2e2e;
     font-family: Inter;
 }
+.hello-my-name {
+    margin: 0;
+}
+.hello-my-name-container {
+    position: absolute;
+    top: 400px;
+    left: calc(50% - 737px);
+    font-family: Itim;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1500px;
+    height: 50px;
+}
+.image-1-icon {
+    position: absolute;
+    top: 920px;
+    left: 605px;
+    width: 759px;
+    height: 367px;
+    object-fit: cover;
+}
 .home-page {
     position: relative;
     border-radius: 30px;
@@ -179,7 +200,7 @@
     height: 2080px;
     overflow: hidden;
     text-align: left;
-    font-size: 30px;
+    font-size: 40px;
     color: #000;
     font-family: Poppins;
 }
