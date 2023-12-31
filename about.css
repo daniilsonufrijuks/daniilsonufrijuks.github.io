@@ -1,6 +1,6 @@
 .background {
     position: absolute;
-    top: 0px;
+    top: 37px;
     left: 0px;
     background-color: #fff;
     width: 1920px;
@@ -137,15 +137,7 @@
     height: 178px;
     overflow: hidden;
     font-size: 30px;
-}
-.about-me {
-    position: absolute;
-    top: calc(50% - 685px);
-    left: calc(50% - 102px);
-    font-weight: 500;
-    display: inline-block;
-    width: 348px;
-    height: 134px;
+    font-family: Poppins;
 }
 .features {
     position: relative;
@@ -159,7 +151,6 @@
     object-fit: cover;
 }
 .about-parent {
-    flex-shrink: 0;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -173,7 +164,6 @@
     object-fit: cover;
 }
 .social-network-wrapper {
-    flex-shrink: 0;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -214,7 +204,7 @@
 }
 .footer-17 {
     position: absolute;
-    top: 1402px;
+    top: 1703px;
     left: 0px;
     background-color: #fff;
     width: 1920px;
@@ -224,25 +214,270 @@
     color: #2d2e2e;
     font-family: Inter;
 }
+.home-page-child {
+    position: absolute;
+    top: 390px;
+    left: 219px;
+    border-radius: 35px;
+    background-color: #fff;
+    border: 3px solid #000;
+    box-sizing: border-box;
+    width: 458px;
+    height: 652px;
+}
+.home-page-item {
+    position: absolute;
+    top: 390px;
+    left: 746px;
+    border-radius: 35px;
+    background-color: #fff;
+    border: 3px solid #000;
+    box-sizing: border-box;
+    width: 955px;
+    height: 652px;
+}
+.home-page-inner {
+    position: absolute;
+    top: 1112px;
+    left: 219px;
+    border-radius: 35px;
+    background-color: #fff;
+    border: 3px dashed #000;
+    box-sizing: border-box;
+    width: 1467px;
+    height: 600px;
+}
 .hello-my-name {
     margin: 0;
 }
 .hello-my-name-container {
     position: absolute;
-    top: 400px;
-    left: calc(50% - 737px);
+    top: 1100px;
+    left: 297px;
+    font-size: 40px;
     font-family: Itim;
     white-space: pre-wrap;
+    text-align: center;
     display: inline-block;
-    width: 1500px;
-    height: 50px;
+    width: 1353px;
 }
-.image-1-icon {
+.programming-logos-and-icons-by {
     position: absolute;
-    top: 920px;
-    left: 605px;
-    width: 759px;
-    height: 367px;
+    top: 784px;
+    left: 846px;
+    width: 113px;
+    height: 106px;
+    object-fit: cover;
+}
+.go-icon {
+    position: absolute;
+    top: 716px;
+    left: 866px;
+    width: 72px;
+    height: 68px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.css-icon {
+    position: absolute;
+    top: 719px;
+    left: 1194px;
+    width: 75px;
+    height: 65px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.python-icon {
+    position: absolute;
+    top: 541px;
+    left: 865px;
+    width: 69px;
+    height: 61px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.java-icon {
+    position: absolute;
+    top: 626px;
+    left: 861px;
+    width: 77px;
+    height: 64px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.c-icon {
+    position: absolute;
+    top: 538px;
+    left: 1194px;
+    width: 67px;
+    height: 61px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.html-icon {
+    position: absolute;
+    top: 629px;
+    left: 1194px;
+    width: 67px;
+    height: 65px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.golang {
+    position: absolute;
+    top: 723px;
+    left: 976px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.httpsdaniilsonufrijuksgith {
+    position: absolute;
+    top: 913px;
+    left: 297px;
+    font-size: 25px;
+    font-weight: 300;
+    display: inline-block;
+    width: 361px;
+    height: 48px;
+}
+.sql {
+    position: absolute;
+    top: 809px;
+    left: 976px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.c {
+    position: absolute;
+    top: 543px;
+    left: 1308px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.html {
+    position: absolute;
+    top: 640px;
+    left: 1308px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.css {
+    position: absolute;
+    top: 725px;
+    left: 1308px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.java {
+    position: absolute;
+    top: 631px;
+    left: 976px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.python {
+    position: absolute;
+    top: 545px;
+    left: 976px;
+    font-weight: 300;
+    display: inline-block;
+    width: 152px;
+    height: 54px;
+}
+.dan {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    width: 363px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.developer {
+    position: relative;
+    font-weight: 300;
+    display: inline-block;
+    width: 416px;
+    height: 59px;
+    flex-shrink: 0;
+}
+.name-card {
+    position: absolute;
+    top: 732px;
+    left: 269px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 32px;
+    color: #272727;
+}
+.email-freemen1094gmailcom {
+    position: relative;
+    font-weight: 600;
+    display: inline-block;
+    width: 416px;
+    height: 59px;
+    flex-shrink: 0;
+}
+.name-card1 {
+    position: absolute;
+    top: 854px;
+    left: 269px;
+    width: 332px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 25px;
+    color: #272727;
+}
+.programming-languages-and {
+    position: absolute;
+    top: 422px;
+    left: 798px;
+    font-weight: 600;
+    color: #272727;
+    display: inline-block;
+    width: 716px;
+    height: 106px;
+}
+.icon-home {
+    position: absolute;
+    height: 1.54%;
+    width: 3.02%;
+    top: 39.7%;
+    right: 83.49%;
+    bottom: 58.77%;
+    left: 13.49%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.image-3-icon {
+    position: absolute;
+    height: 11.68%;
+    width: 9.53%;
+    top: 19.43%;
+    right: 76.15%;
+    bottom: 68.88%;
+    left: 14.32%;
+    border-radius: 62px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
     object-fit: cover;
 }
 .home-page {
@@ -251,11 +486,11 @@
     background-color: #fff;
     box-shadow: 20px 30px 100px rgba(0, 0, 0, 0.25);
     width: 100%;
-    height: 2080px;
+    height: 2300px;
     overflow: hidden;
     text-align: left;
-    font-size: 40px;
+    font-size: 36px;
     color: #000;
-    font-family: Poppins;
+    font-family: 'Nunito Sans';
 }
 
