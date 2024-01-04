@@ -129,15 +129,7 @@
     height: 178px;
     overflow: hidden;
     font-size: 30px;
-}
-.projects1 {
-    position: absolute;
-    top: calc(50% - 685px);
-    left: calc(50% - 102px);
-    font-weight: 500;
-    display: inline-block;
-    width: 348px;
-    height: 134px;
+    font-family: Poppins;
 }
 .features {
     position: relative;
@@ -151,7 +143,6 @@
     object-fit: cover;
 }
 .about-parent {
-    flex-shrink: 0;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -165,7 +156,6 @@
     object-fit: cover;
 }
 .social-network-wrapper {
-    flex-shrink: 0;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -206,7 +196,7 @@
 }
 .footer-17 {
     position: absolute;
-    top: 1402px;
+    top: 1719px;
     left: 0px;
     background-color: #fff;
     width: 1920px;
@@ -221,27 +211,36 @@
 }
 .welcome-here-you-container {
     position: absolute;
-    top: 350px;
-    left: 183px;
-    font-family: Itim;
+    top: 435px;
+    left: 196px;
     white-space: pre-wrap;
+    text-align: center;
     display: inline-block;
     width: 1554px;
-    height: 174px;
+    height: 195px;
 }
 .github-httpsgithubcomda {
     position: absolute;
-    top: 800px;
-    left: 183px;
-    font-family: Itim;
+    top: 915px;
+    left: 550px;
 }
 .image-2-icon {
     position: absolute;
-    top: 1107px;
-    left: 528px;
+    top: 1288px;
+    left: 550px;
     width: 822px;
     height: 203px;
     object-fit: cover;
+}
+.home-page-child {
+    position: absolute;
+    top: 487px;
+    left: 187px;
+    border-radius: 35px;
+    border: 3px dashed #000;
+    box-sizing: border-box;
+    width: 1596px;
+    height: 574px;
 }
 .home-page {
     position: relative;
@@ -249,11 +248,11 @@
     background-color: #fff;
     box-shadow: 20px 30px 100px rgba(0, 0, 0, 0.25);
     width: 100%;
-    height: 2080px;
+    height: 2300px;
     overflow: hidden;
     text-align: left;
     font-size: 40px;
     color: #000;
-    font-family: Poppins;
+    font-family: Itim;
 }
 
